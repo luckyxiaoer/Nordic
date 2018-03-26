@@ -53,6 +53,7 @@
  *
  */
 //for git hub test 
+//test twice 
 #include <stdint.h>
 #include <string.h>
 #include "nrf.h"
