@@ -52,9 +52,7 @@
  * server, pressing button 1 will trigger a read of the current time and print it on the UART.
  *
  */
-//for git hub test 
-//test twice 
-//test 3rd
+
 #include <stdint.h>
 #include <string.h>
 #include "nrf.h"
