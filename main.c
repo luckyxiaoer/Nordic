@@ -147,6 +147,7 @@ static ble_uuid_t m_adv_uuids[] = {
 
 };
 
+
 static char const * day_of_week[] =
 {
     "Unknown",
